@@ -42,7 +42,7 @@ OWASP Saitama Chapterとは、ソフトウェアセキュリティの向上を�
 
 ## スピーカーとして参加を希望される方へ
 
-OWASP Saitamaミーティングにスピーカーとして参加を希望される方は、[speaker agreement](/www-policy/speaker-agreement)にご同意の上、以下の内容をチャプターリーダーまでご連絡ください。
+OWASP Saitamaミーティングにスピーカーとして参加を希望される方は、[speaker agreement](/www-policy/legal/speaker-agreement)にご同意の上、以下の内容をチャプターリーダーまでご連絡ください。
 
  * お名前
  * セッションタイトル
