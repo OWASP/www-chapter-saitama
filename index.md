@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Saitama Local Chapter
-tags: saitama kasukabe city japan
+tags: saitama-tag
 region: Asia
 
 ---
