@@ -37,8 +37,8 @@ OWASP Saitama Chapterとは、ソフトウェアセキュリティの向上を�
 
 イベント開催等の情報はメーリングリストやSNSにて配信しております。
 
-* Facebook
-* Twitter
+* [Facebook](https://www.facebook.com/owaspsaitama)
+* [Twitter](https://twitter.com/OWASP_Saitama)
 
 ## スピーカーとして参加を希望される方へ
 
