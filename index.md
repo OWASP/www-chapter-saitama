@@ -1,73 +1,54 @@
 ---
 
 layout: col-sidebar
-title: OWASP Saitama
-tags: example-tag
+title: OWASP Saitama Local Chapter
+tags: saitama kasukabe city japan
 region: Asia
 
 ---
 
-<div style='color:red;'>
+## ようこそ
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+こちらはOWASP Saitama Chapterのページです。
 
-layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
+OWASP Saitama Chapterとは、ソフトウェアセキュリティの向上を目指す非営利組織であるOWASP (The Open Web Application Security Project) の埼玉支部です。
 
-title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
+チャプターリーダーは吉村 孝広、吉村 賢哉の2名です。
 
-tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
+## ミッション
 
-region: This is the region you are in according to our data
+*自由な意見交換*
 
-</div>
+当チャプターはセキュリティに関連するトピックにおける自由な意見交換が最も重要と考えます。このため当チャプターではスピーカーが明示的に許可した場合を除きトークセッションにおける一切の録音・録画・内容公開を禁止するなど、スピーカーの方々が安心してお話できるよう環境整備に努めます。
 
-## Welcome
-Include some information here about your chapter
+*有用な情報共有*
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+当チャプターは有用な情報を意味ある形で一早く共有することが重要であると考えます。このため当チャプターは抽象的な内容よりも具体的な内容を好みます。
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+*深い技術交流*
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+当チャプターは技術的な交流が重要であると考えます。このため当チャプターはワークショップやトレーニングなども適宜開催いたします。
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
 
-{front matter for this file}
+## OWASP Saitamaミーティング
+セキュリティ向上に貢献しようという地元有志がさいたま市あるいは春日部市に集まって開く当チャプターの定例勉強会です。セキュリティに携わる幅広い分野の方をスピーカーとしてお呼びして開催します。職種・経験・年齢・性別・国籍などは一切問いません。どなたでもご参加ください。
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+※当チャプターではスピーカーが明示的に許可した場合を除き、トークセッションの録音・録画・内容公開は原則禁止とさせていただきます
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+イベント開催等の情報はメーリングリストやSNSにて配信しております。
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+* Facebook
+* Twitter
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+## スピーカーとして参加を希望される方へ
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+OWASP Saitamaミーティングにスピーカーとして参加を希望される方は、[speaker agreement](/www-policy/speaker-agreement)にご同意の上、以下の内容をチャプターリーダーまでご連絡ください。
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+ * お名前
+ * セッションタイトル
 
-```
-{info.md}
+## チャプター協賛企業・団体
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+以下は当チャプターに協賛をいただいている企業様・団体様の一覧です。
 
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+[<img alt="Monolith Works Inc." src="/assets/images/monolithworks.png" height="100" >](https://monolithworks.co.jp/)
