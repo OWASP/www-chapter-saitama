@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Saitama Local Chapter
+title: OWASP Saitama
 tags: saitama-tag
 region: Asia
 
@@ -9,9 +9,9 @@ region: Asia
 
 ## ようこそ
 
-こちらはOWASP Saitama Chapterのページです。
+こちらはOWASP Saitamaチャプターのページです。
 
-OWASP Saitama Chapterとは、ソフトウェアセキュリティの向上を目指す非営利組織であるOWASP (The Open Web Application Security Project) の埼玉支部です。
+OWASP Saitamaチャプターとは、ソフトウェアセキュリティの向上を目指す非営利組織であるOWASP (The Open Web Application Security Project) の埼玉支部です。
 
 チャプターリーダーは吉村 孝広、吉村 賢哉の2名です。
 
