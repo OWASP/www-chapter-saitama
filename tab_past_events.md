@@ -1,5 +1,6 @@
 ---
-title: 過去のイベント
+title: past_events
+displaytext: 過去のイベント
 layout:  null
 tab: true
 order: 1
