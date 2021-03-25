@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Saitama Chapter
+title: OWASP Saitama
 tags: saitama-tag
 region: Asia
 
