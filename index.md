@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Saitama
+title: OWASP Saitama Chapter
 tags: saitama-tag
 region: Asia
 
@@ -51,4 +51,4 @@ OWASP Saitamaミーティングにスピーカーとして参加を希望され�
 
 以下は当チャプターに協賛をいただいている企業様・団体様の一覧です。
 
-[<img alt="Monolith Works Inc." src="/assets/images/monolithworks.png" height="100" >](https://monolithworks.co.jp/)
+[<img alt="Monolith Works Inc." src="/www-chapter-saitama/assets/images/monolithworks.png" height="100" >](https://monolithworks.co.jp/)
