@@ -11,7 +11,7 @@ region: Asia
 
 こちらはOWASP Saitamaチャプターのページです。
 
-OWASP Saitamaチャプターとは、ソフトウェアセキュリティの向上を目指す非営利組織であるOWASP (The Open Web Application Security Project) の埼玉支部です。
+OWASP Saitamaチャプターとは、ソフトウェアセキュリティの向上を目指す非営利組織であるOWASP (The Open Web Application Security Project) のさいたま支部です。
 
 チャプターリーダーは吉村 孝広、吉村 賢哉の2名です。
 
@@ -42,7 +42,7 @@ OWASP Saitamaチャプターとは、ソフトウェアセキュリティの向�
 
 ## スピーカーとして参加を希望される方へ
 
-OWASP Saitamaミーティングにスピーカーとして参加を希望される方は、[speaker agreement](/www-policy/legal/speaker-agreement)にご同意の上、以下の内容をチャプターリーダーまでご連絡ください。
+OWASP Saitamaミーティングにスピーカーとして参加を希望される方は、[speaker agreement](/www-policy/legal/speaker-agreement)をご覧の上、以下の内容をチャプターリーダーまでご連絡ください。
 
  * お名前
  * セッションタイトル
