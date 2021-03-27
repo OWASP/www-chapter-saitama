@@ -51,6 +51,5 @@ OWASP Saitamaミーティングにスピーカーとして参加を希望され�
 
 以下は当チャプターに協賛をいただいている企業様・団体様の一覧です。
 
-[<img alt="Monolith Works Inc." src="assets/images/monolithworks-2.png" height="100" >](https://monolithworks.co.jp/)
+[<img alt="Monolith Works Inc." src="assets/images/monolithworks.png" height="100" >](https://monolithworks.co.jp/)
 [<img alt="Deego Co.,Ltd." src="assets/images/deego.png" height="100" >](https://www.deego.co.jp/)
-[<img alt="Secure Hatters" src="assets/images/sh-2.png" height="100" >](https://www.securehatters.com/)
