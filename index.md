@@ -15,6 +15,12 @@ OWASP Saitamaチャプターとは、サイバーセキュリティの向上を�
 
 チャプターリーダーは吉村 孝広、吉村 賢哉の2名です。
 
+## 次回のミーティング予定
+
+イベント管理に[Connpass](https://owaspsaitama.connpass.com/)を使用しています。Connpassが使用できない場合、チャプターリーダーまでご連絡いただくことでも参加可能です。
+
+* 3/30 19:00+9..: [OWASP Saitama ミーティング #0](https://owaspsaitama.connpass.com/event/208691/) (オンライン)
+
 ## ミッション
 
 *自由な意見交換*
