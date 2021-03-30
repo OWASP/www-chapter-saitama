@@ -34,6 +34,9 @@ We consider any meaningful awareness is provided only with timely and comprehens
 
 We consider it is important to distribute not only knowledge but also skills. For that mission we will occussionally hold workshops.
 
+*4. We seek fun.*
+
+We believe that fun is an important factor of any fruitful research. For that mission we will strive to provide easy and cozy environment.
 
 ## OWASP Saitama Meetings
 OWASP Saitama Meetings are regular meetings held by our members, in Saitama-shi or Kasukabe-shi, for raising cybersecurity awareness. We will invite various person working in the cybersecurity field as speakers. Anyone can join us; we will welcome you no matter of your profession, experience, age, gender, or nationality.
