@@ -9,4 +9,6 @@ tags: saitama-tag
 
 ## 過去のミーティング
 
-開催したミーティングはまだありません。
+開催したミーティングは以下のとおりです。
+
+* 3/30 19:00+9..: [OWASP Saitama ミーティング #0](https://owaspsaitama.connpass.com/event/208691/) (オンライン)
