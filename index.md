@@ -17,7 +17,7 @@ OWASP Saitamaチャプターとは、サイバーセキュリティの向上を�
 
 ## 次回のミーティング予定
 
-イベント管理に[Connpass](https://owaspsaitama.connpass.com/)を使用しています。Connpassが使用できない場合、チャプターリーダーまでご連絡いただくことでも参加可能です。
+現在、イベント管理に[Connpass](https://owaspsaitama.connpass.com/)を使用しています。Connpassが使用できない場合、チャプターリーダーまでご連絡いただくことでも参加可能です。
 
 * 5/25? 19:00+9..: OWASP Saitama ミーティング #1 (オンライン)<br>
   ※日程は仮; 決定次第アナウンスします。
@@ -45,9 +45,10 @@ OWASP Saitamaチャプターとは、サイバーセキュリティの向上を�
 
 ※当チャプターではスピーカーが明示的に許可した場合を除き、トークセッションの録音・録画・内容公開は原則禁止とさせていただきます
 
-イベント開催等の情報はメーリングリストやSNSにて配信しております。
+イベント開催等の情報は[チャプターページ](#次回のミーティング予定)で行ないます。また以下のようなプラットフォームへも配信します。
 
 * [Connpass](https://owaspsaitama.connpass.com/)
+* [Meetup](https://www.meetup.com/owasp-saitama/)
 * [Facebook](https://www.facebook.com/owaspsaitama)
 * [Twitter](https://twitter.com/OWASP_Saitama)
 
