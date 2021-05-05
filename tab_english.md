@@ -14,9 +14,9 @@ The chapter leaders are: Takahiro Yoshimura and Ken-ya Yoshimura.
 
 ## Upcoming events
 
-Currently, we are using [Connpass](https://owaspsaitama.connpass.com/) and [Meetup](https://www.meetup.com/owasp-saitama/) for organizing our events. If you cannot use them, you can attend our events by contacting chapter leaders.
+Currently, we are using [Connpass](https://owaspsaitama.connpass.com/) for organizing our events. If you cannot use it, you can attend our events by contacting chapter leaders.
 
-* 5/25 19:00+9..: OWASP Saitama Meeting #1 (virtual event; [Connpass](https://owaspsaitama.connpass.com/event/211303/); [Meetup](https://www.meetup.com/owasp-saitama/events/277702625/))
+* 5/25 19:00+9..: [OWASP Saitama Meeting #1](https://owaspsaitama.connpass.com/event/211303/) (virtual event)
 
 ## Our mission
 
@@ -46,7 +46,6 @@ IMPORTANT: In our chapter we do not allow audio/video recording and disclosure, 
 We announce upcoming events including the meetings, primarily in [the chapter page](#upcoming-events), relaying to platforms like:
 
 * [Connpass](https://owaspsaitama.connpass.com/)
-* [Meetup](https://www.meetup.com/owasp-saitama/)
 * [Facebook](https://www.facebook.com/owaspsaitama)
 * [Twitter](https://twitter.com/OWASP_Saitama)
 
