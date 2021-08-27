@@ -16,7 +16,7 @@ The chapter leaders are: Takahiro Yoshimura and Ken-ya Yoshimura.
 
 Currently, we are using [Connpass](https://owaspsaitama.connpass.com/) for organizing our events. If you cannot use it, you can attend our events by contacting chapter leaders.
 
-* 8/26 19:00+9: [OWASP Saitama Meeting #3](https://owaspsaitama.connpass.com/event/215307/) (virtual event)
+* TBA
 
 ## Our mission
 
