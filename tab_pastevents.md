@@ -17,3 +17,4 @@ tags: saitama-tag
 * 9/28 19:00+9..: [OWASP Saitama ミーティング #4](https://owaspsaitama.connpass.com/event/226012/) (オンライン)
 * 11/30 19:00+9..: [OWASP Saitama ミーティング #5](https://owaspsaitama.connpass.com/event/232046/) (オンライン)
 * 1/25 19:00+9..: [OWASP Saitama ミーティング #6](https://owaspsaitama.connpass.com/event/233456/) (オンライン)
+* 3/29 19:00+9..: [OWASP Saitama ミーティング #7](https://owaspsaitama.connpass.com/event/237914/) (オンライン)

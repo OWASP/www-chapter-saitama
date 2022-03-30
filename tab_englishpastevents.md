@@ -17,3 +17,4 @@ We have held meetings below:
 * 9/28 19:00+9..: [OWASP Saitama Meeting #4](https://owaspsaitama.connpass.com/event/226012/) (virtual event)
 * 11/30 19:00+9..: [OWASP Saitama Meeting #5](https://owaspsaitama.connpass.com/event/232046/) (virtual event)
 * 1/25 19:00+9..: [OWASP Saitama Meeting #6](https://owaspsaitama.connpass.com/event/233456/) (virtual event)
+* 3/29 19:00+9..: [OWASP Saitama Meeting #7](https://owaspsaitama.connpass.com/event/237914/) (virtual event)
