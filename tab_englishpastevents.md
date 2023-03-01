@@ -22,3 +22,4 @@ We have held meetings below:
 * 2022/8/30 19:00+9..: [OWASP Saitama Meeting #9](https://owaspsaitama.connpass.com/event/253611/) (virtual event)
 * 2022/10/25 19:00+9..: [OWASP Saitama Meeting #10](https://owaspsaitama.connpass.com/event/263218/) (hybrid; [Kasukabe Convention Hall, 4F Meeting Room 2](https://www.kasukabehall.jp/))
 * 2022/12/20 19:00+9..: [OWASP Saitama Meeting #11](https://owaspsaitama.connpass.com/event/266725/) (hybrid; [RaiBoC Hall Meeting Room 3](https://saitama-culture.jp/raibochall/))
+* 2023/2/28 19:00+9..: [OWASP Saitama Meeting #12](https://owaspsaitama.connpass.com/event/276182/) (hybrid; [Kasukabe Convention Hall, 4F Meeting Room 2](https://www.kasukabehall.jp/))
