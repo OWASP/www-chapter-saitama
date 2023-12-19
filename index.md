@@ -20,7 +20,7 @@ OWASP Saitamaチャプターとは、サイバーセキュリティの向上を�
 
 現在、イベント管理に[Connpass](https://owaspsaitama.connpass.com/)を使用しています。もし使用できない場合、チャプターリーダーまでご連絡いただくことでも参加可能です。
 
-* 2023/12/18 19:00+9..: [OWASP Saitama MTG #17 ](https://owaspsaitama.connpass.com/event/301069/) (オフライン; [RaiBoC Hall 集会室7](https://saitama-culture.jp/raibochall/))
+* TBA
 
 
 ## ミッション
