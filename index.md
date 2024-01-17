@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Saitama
 tags: saitama-tag
 region: Asia
+country: Japan
 meeting-platform: connpass
 
 ---
