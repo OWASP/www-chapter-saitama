@@ -28,3 +28,4 @@ tags: saitama-tag
 * 2023/8/29 19:00+9..: [OWASP Saitama ミーティング #15 〜行くぞ脅威モデリング〜](https://owaspsaitama.connpass.com/event/288885/) (オフライン; [RaiBoC Hall 会議室3](https://saitama-culture.jp/raibochall/))
 * 2023/10/24 19:00+9..: [OWASP Saitama MTG #16](https://owaspsaitama.connpass.com/event/295377/) (オフライン; [春日部市ふれあいキューブ](https://www.kasukabehall.jp/))
 * 2023/12/18 19:00+9..: [OWASP Saitama MTG #17 ](https://owaspsaitama.connpass.com/event/301069/) (オフライン; [RaiBoC Hall 集会室7](https://saitama-culture.jp/raibochall/))
+* 2024/2/27 19:00+9..: [OWASP Saitama MTG #18](https://owaspsaitama.connpass.com/event/309691/) (オフライン; [春日部市ふれあいキューブ](https://www.kasukabehall.jp/))
