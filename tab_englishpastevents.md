@@ -32,3 +32,4 @@ We have held meetings below:
 * 2024/4/30 19:00+9..: [OWASP Saitama MTG #19 ](https://connpass.com/event/315657/) (in-person; [RaiBoC Hall Meeting Room 4](https://saitama-culture.jp/raibochall/))
 * 2024/6/25 19:00+9..: [OWASP Saitama MTG #20](https://owaspsaitama.connpass.com/event/318246/) (in-person; [Kasukabe Convention Hall](https://www.kasukabehall.jp/))
 * 2024/10/29 19:00+9..: [OWASP Saitama Meeting #22](https://owaspsaitama.connpass.com/event/331588/) (hybrid；[Kasukabe Convention Hall, 4F Meeting Room 2](https://www.kasukabehall.jp/))
+* 2024/12/10 19:00+9..: [OWASP Saitama Meeting #23](https://owaspsaitama.connpass.com/event/338822/) (hybrid; [RaiBoC Hall Meeting Room 2](https://saitama-culture.jp/raibochall/))
