@@ -33,3 +33,4 @@ tags: saitama-tag
 * 2024/6/25 19:00+9..: [OWASP Saitama MTG #20](https://owaspsaitama.connpass.com/event/318246/) (オフライン; [春日部市ふれあいキューブ](https://www.kasukabehall.jp/))
 * 2024/10/29 19:00+9..: [OWASP Saitama MTG #22](https://owaspsaitama.connpass.com/event/331588/) (ハイブリッド; [春日部市ふれあいキューブ 4F 会議室2](https://www.kasukabehall.jp/))
 * 2024/12/10 19:00+9..: [OWASP Saitama ミーティング #23](https://owaspsaitama.connpass.com/event/338822/) (ハイブリッド; [RaiBoC Hall 集会室2](https://saitama-culture.jp/raibochall/))
+* 2025/02/25 19:00+9..: [OWASP Saitama ミーティング #24](https://owaspsaitama.connpass.com/event/339973/) (ハイブリッド; [[春日部市ふれあいキューブ 4F 会議室2](https://www.kasukabehall.jp/))
