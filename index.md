@@ -21,7 +21,7 @@ OWASP Saitamaチャプターとは、サイバーセキュリティの向上を�
 
 現在、イベント管理に[Connpass](https://owaspsaitama.connpass.com/)を使用しています。もし使用できない場合、チャプターリーダーまでご連絡いただくことでも参加可能です。
 
-* TBA
+* 2025/10/28 19:00+9..: [OWASP Saitama ミーティング #28](https://owaspsaitama.connpass.com/event/367329/) (ハイブリッド; [春日部市ふれあいキューブ 4F 会議室2](https://www.kasukabehall.jp/))
 
 ## ミッション
 
@@ -50,7 +50,8 @@ OWASP Saitamaチャプターとは、サイバーセキュリティの向上を�
 
 * [Connpass](https://owaspsaitama.connpass.com/)
 * [Facebook](https://www.facebook.com/owaspsaitama)
-* [Twitter](https://twitter.com/OWASP_Saitama)
+* [Mastodon](https://infosec.exchange/@OWASP_Saitama)
+* [X](https://twitter.com/OWASP_Saitama)
 
 ## スピーカーとして参加を希望される方へ
 
