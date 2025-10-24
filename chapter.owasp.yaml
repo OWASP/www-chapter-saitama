@@ -1,0 +1,24 @@
+leaders:
+  - name: Takahiro Yoshimura
+    email: takahiro.yoshimura@owasp.org
+    github: alterakey
+  - name: Ken-ya Yoshimura
+    email: ken-ya.yoshimura@owasp.org
+    github: ad3liae
+location:
+  country: Japan
+  country_code: JP
+  region: Saitama Prefecture
+  city: Saitama
+  latitude: 35.9754168
+  longitude: 139.4160114
+name: OWASP Saitama
+repositories:
+  - name: www-chapter-saitama
+    url: https://github.com/OWASP/www-chapter-saitama
+    description: OWASP Foundation Web Repository
+tags:
+  - saitama-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-saitama
