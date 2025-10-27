@@ -9,9 +9,13 @@ location:
   country: Japan
   country_code: JP
   region: Saitama Prefecture
-  city: Saitama
-  latitude: 35.9754168
-  longitude: 139.4160114
+  city: Saitama-shi
+  latitude: 35.9578695
+  longitude: 139.6509804
+logo:
+  - small: https://raw.githubusercontent.com/OWASP/www-chapter-saitama/refs/heads/main/logo/192.png
+    medium: https://raw.githubusercontent.com/OWASP/www-chapter-saitama/refs/heads/main/logo/256.png
+    large: https://raw.githubusercontent.com/OWASP/www-chapter-saitama/refs/heads/main/logo/512.png
 name: OWASP Saitama
 repositories:
   - name: www-chapter-saitama
@@ -22,3 +26,34 @@ tags:
   - custom-tag-1
   - custom-tag-2
 website: https://owasp.org/www-chapter-saitama
+social_media:
+  - { platform: mastodon, url: https://infosec.exchange/@OWASP_Saitama }
+  - { platform: x, url: https://x.com/OWASP_Saitama }
+events:
+   - { title: "OWASP Saitama MTG #0", url: https://owaspsaitama.connpass.com/event/208691/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #1", url: https://owaspsaitama.connpass.com/event/211303/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #3", url: https://owaspsaitama.connpass.com/event/215307/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #4", url: https://owaspsaitama.connpass.com/event/226012/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #5", url: https://owaspsaitama.connpass.com/event/232046/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #6", url: https://owaspsaitama.connpass.com/event/233456/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #7", url: https://owaspsaitama.connpass.com/event/237914/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #8", url: https://owaspsaitama.connpass.com/event/243881/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #9", url: https://owaspsaitama.connpass.com/event/253611/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #10", url: https://owaspsaitama.connpass.com/event/263218/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #11", url: https://owaspsaitama.connpass.com/event/266725/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #12", url: https://owaspsaitama.connpass.com/event/276182/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #13", url: https://owaspsaitama.connpass.com/event/277279/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #14", url: https://owaspsaitama.connpass.com/event/288231/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #15 -Threats, Show Thyself-", url: https://owaspsaitama.connpass.com/event/288885/, description: "workshop about threat modelling" }
+   - { title: "OWASP Saitama MTG #16", url: https://owaspsaitama.connpass.com/event/295377/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #17 ", url: https://owaspsaitama.connpass.com/event/301069/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #18", url: https://owaspsaitama.connpass.com/event/309691/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #19 ", url: https://connpass.com/event/315657/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #20", url: https://owaspsaitama.connpass.com/event/318246/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #22", url: https://owaspsaitama.connpass.com/event/331588/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #23", url: https://owaspsaitama.connpass.com/event/338822/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #24", url: https://owaspsaitama.connpass.com/event/339973/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #25", url: https://owaspsaitama.connpass.com/event/348313/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #26", url: https://owaspsaitama.connpass.com/event/353670/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #27", url: https://owaspsaitama.connpass.com/event/362587/, description: "regular meeting" }
+   - { title: "OWASP Saitama MTG #28", url: https://owaspsaitama.connpass.com/event/367329/, description: "regular meeting" }
