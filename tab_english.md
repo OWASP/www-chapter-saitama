@@ -46,9 +46,10 @@ IMPORTANT: In our chapter we do not allow audio/video recording and disclosure, 
 We announce upcoming events including the meetings, primarily in [the chapter page](#upcoming-events), relaying to platforms like:
 
 * [Connpass](https://owaspsaitama.connpass.com/)
-* [Facebook](https://www.facebook.com/owaspsaitama)
+* [Bluesky](https://bsky.app/profile/owaspsaitama.bsky.social)
 * [Mastodon](https://infosec.exchange/@OWASP_Saitama)
 * [X](https://twitter.com/OWASP_Saitama)
+* [Facebook](https://www.facebook.com/owaspsaitama)
 
 ## Call for paper is always open!
 

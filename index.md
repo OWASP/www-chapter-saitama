@@ -49,9 +49,10 @@ OWASP Saitamaチャプターとは、サイバーセキュリティの向上を�
 イベント開催等のアナウンスは[チャプターページ](#次回のミーティング予定)で行ないます。また以下のようなプラットフォームへも配信します。
 
 * [Connpass](https://owaspsaitama.connpass.com/)
-* [Facebook](https://www.facebook.com/owaspsaitama)
+* [Bluesky](https://bsky.app/profile/owaspsaitama.bsky.social)
 * [Mastodon](https://infosec.exchange/@OWASP_Saitama)
 * [X](https://twitter.com/OWASP_Saitama)
+* [Facebook](https://www.facebook.com/owaspsaitama)
 
 ## スピーカーとして参加を希望される方へ
 
