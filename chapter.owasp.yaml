@@ -22,13 +22,14 @@ repositories:
     url: https://github.com/OWASP/www-chapter-saitama
     description: OWASP Foundation Web Repository
 tags:
-  - saitama-tag
-  - custom-tag-1
-  - custom-tag-2
+  - Saitama
+  - Kasukabe
+  - OWASP_Saitama
 website: https://owasp.org/www-chapter-saitama
 social_media:
   - { platform: mastodon, url: https://infosec.exchange/@OWASP_Saitama }
   - { platform: x, url: https://x.com/OWASP_Saitama }
+  - { platform: bluesky, url: https://bsky.app/profile/owaspsaitama.bsky.social }
 events:
    - { title: "OWASP Saitama MTG #0", url: https://owaspsaitama.connpass.com/event/208691/, description: "regular meeting" }
    - { title: "OWASP Saitama MTG #1", url: https://owaspsaitama.connpass.com/event/211303/, description: "regular meeting" }
