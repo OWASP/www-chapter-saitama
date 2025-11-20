@@ -16,7 +16,7 @@ The chapter leaders are: Takahiro Yoshimura and Ken-ya Yoshimura.
 
 Currently, we are using [Connpass](https://owaspsaitama.connpass.com/) for organizing our events. If you cannot use it, you can attend our events by contacting chapter leaders.
 
-* TBA
+* 2025/12/16 19:00+9..: [OWASP Saitama MTG #29](https://owaspsaitama.connpass.com/event/376629/) (hybrid; [RaiBoC Hall Meeting Room 5](https://saitama-culture.jp/raibochall/))
 
 ## Our mission
 
@@ -47,9 +47,8 @@ We announce upcoming events including the meetings, primarily in [the chapter pa
 
 * [Connpass](https://owaspsaitama.connpass.com/)
 * [Bluesky](https://bsky.app/profile/owaspsaitama.bsky.social)
-* [Mastodon](https://infosec.exchange/@OWASP_Saitama)
-* [X](https://twitter.com/OWASP_Saitama)
-* [Facebook](https://www.facebook.com/owaspsaitama)
+* [X](https://x.com/OWASP_Saitama) (deprecated)
+* [Facebook](https://www.facebook.com/owaspsaitama) (deprecated)
 
 ## Call for paper is always open!
 
