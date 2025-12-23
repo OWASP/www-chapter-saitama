@@ -13,7 +13,7 @@ meeting-platform: connpass
 
 こちらはOWASP Saitamaチャプターのページです。
 
-OWASP Saitamaチャプターとは、サイバーセキュリティの向上を目指す非営利組織であるOWASP (The Open Web Application Security Project) のさいたま支部です。
+OWASP Saitamaチャプターとは、サイバーセキュリティの向上を目指す非営利組織であるOWASP (The Open Worldwide Application Security Project) のさいたま支部です。
 
 チャプターリーダーは吉村 孝広、吉村 賢哉の2名です。
 
