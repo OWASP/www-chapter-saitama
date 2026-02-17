@@ -16,7 +16,7 @@ The chapter leaders are: Takahiro Yoshimura and Ken-ya Yoshimura.
 
 Currently, we are using [Connpass](https://owaspsaitama.connpass.com/) for organizing our events. If you cannot use it, you can attend our events by contacting chapter leaders.
 
-* 2026/02/16 19:00+9..: [OWASP Saitama MTG #30](https://owaspsaitama.connpass.com/event/380983/) (hybrid；[Kasukabe Convention Hall, 4F Meeting Room 2](https://www.kasukabehall.jp/))
+* TBA
 
 ## Our mission
 
